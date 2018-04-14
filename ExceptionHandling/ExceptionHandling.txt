@@ -1,0 +1,11 @@
+Exception Handling
+
+try	   Logic
+except	   Will except/handle the error
+finally	   Will always execute
+
+
+Pre defined
+BaseException - common class for all exceptions
+
+User defined
